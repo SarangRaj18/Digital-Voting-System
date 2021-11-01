@@ -1,7 +1,7 @@
 <%-- 
     Document   : generate_token
     Created on : 20 Mar, 2019, 5:45:29 PM
-    Author     : MY PC
+    Author     : SARANG RAJ CHOURASIA
 --%>
 <%@ page import="java.sql.*" %> 
 <%@ page import="Upyogi.DBconnect" %> 
